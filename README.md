@@ -1,2 +1,2 @@
-# ReactPractice1
+# ReactApp1
 Created with CodeSandbox
